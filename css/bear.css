@@ -8,6 +8,22 @@ html {
   right: 0;
 }
 
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.bear {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.cliff {
+  position: absolute;
+  top: 30px;
+  left: 70px;
+}
+
 
 /*For the bear, when sizing the browser from smaller to larger (mobile up), when the screen reaches 1196px stop him from falling off the cliff by setting him to stay 800px from the left side of the screen before he reaches the edge.*/
 
