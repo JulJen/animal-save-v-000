@@ -1,5 +1,6 @@
-/*html {
-  background: url(../images/cliff.jpg) no-repeat top left;*/
+index.html {
+  background: url(../images/cliff.jpg) no-repeat top left;
+  background-size: cover;
 }
 
 #bear {
@@ -9,13 +10,13 @@
   z-index: 2;
 }
 
-#cliff {
+/*#cliff {
   position: fixed;
   top: 100px;
   left: 0;
   width: 100%;
   z-index: 2;
-}
+}*/
 /* Write your solution here */
 
 @media only screen and (max-width: 1196px) {
