@@ -10,7 +10,7 @@ html {
 
 #cliff {
   position: absolute;
-  top: 100px;
+  top: -100px;
   right: 0;
   z-index: auto;
 }
