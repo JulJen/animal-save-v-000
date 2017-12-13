@@ -1,6 +1,6 @@
 index.html {
   background: url(../images/cliff.jpg) no-repeat top left;
-  background-size: cover;
+  /*background-size: cover;*/
 }
 
 #bear {
