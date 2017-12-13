@@ -1,5 +1,6 @@
 bear.html {
   background: url(../images/cliff.jpg) no-repeat top left;
+  position: absolute;
 }
 
 #bear {
