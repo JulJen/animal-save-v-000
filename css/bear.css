@@ -13,9 +13,9 @@ html {
   right: 0;
 }
 .cliff {
-  position: absolute;
-  top: 30px;
-  left: 70px;
+  width: 100%;
+  max-width: 100%;
+  border: 1px 
 }
 
 
