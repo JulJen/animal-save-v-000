@@ -9,8 +9,11 @@ html {
 }
 
 #cliff {
-  background: url(../images/cliff.jpg) no-repeat center top;
-  background-size: cover;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2;
 }
 /* Write your solution here */
 
